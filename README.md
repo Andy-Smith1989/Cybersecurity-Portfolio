@@ -21,6 +21,7 @@ I am building this portfolio to document my progress and demonstrate my skills a
 
 ## Projects
 - [Phishing Email Analysis](projects/phishing-analysis.md)
+- [Password Security Audit](projects/password-security-audit.md)
 
 ## Notes
 - [CIA Triad](cia-triad-notes.md)
