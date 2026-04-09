@@ -1,12 +1,15 @@
 # Phishing Email Analysis
 
 ## Objective
-Analyze a suspicious email for phishing indicators.
+To identify whether an email is a phishing attempt.
 
-## Steps Taken
-- Checked sender email address
-- Examined links for mismatched URLs
-- Identified urgent language
+## Indicators Found
+- Suspicious sender address
+- Mismatched URLs
+- Urgent language requesting immediate action
+
+## Tools Used
+- Manual inspection
 
 ## Conclusion
-The email shows clear signs of phishing.
+The email contains multiple phishing indicators and is likely malicious.
