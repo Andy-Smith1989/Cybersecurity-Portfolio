@@ -1,5 +1,11 @@
 # Cybersecurity-Portfolio
 
+## Professional Statement
+
+I am currently building my cybersecurity skills through hands-on learning and coursework. I am passionate about protecting data, solving problems, and working with integrity.
+
+I am detail-oriented, adaptable, and quick to learn. I am committed to continuing my growth and contributing to a team where I can apply my skills and keep improving.
+
 Cybersecurity portfolio to demonstrate my skills, progress, and hands-on experience.
 
 ## About Me
