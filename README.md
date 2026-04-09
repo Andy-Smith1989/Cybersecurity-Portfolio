@@ -26,3 +26,4 @@ I am building this portfolio to document my progress and demonstrate my skills a
 
 ## Notes
 - [CIA Triad](cia-triad-notes.md)
+- [Security Frameworks](security-frameworks-notes.md)
