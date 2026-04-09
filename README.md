@@ -14,3 +14,11 @@ I am building this portfolio to document my progress and demonstrate my skills.
 ## Projects
 (Projects will be added here as I complete them)
 - [Phishing Email Analysis](phishing-analysis.md)
+
+
+## Skills Being Developed
+
+- Network security fundamentals
+- Threat analysis
+- Phishing detection
+- Basic Linux, Python, SQL, and security tools (in progress)
