@@ -1,10 +1,18 @@
 # CIA Triad
 
+The CIA Triad is a foundational concept in cybersecurity that represents three core principles:
+
 ## Confidentiality
-Protecting data from unauthorized access
+Ensuring that sensitive information is only accessible to authorized users.
 
 ## Integrity
-Ensuring data is accurate and not altered
+Maintaining the accuracy and trustworthiness of data.
 
 ## Availability
-Making sure systems/data are accessible when needed
+Ensuring that systems and data are accessible when needed.
+
+## Why It Matters
+The CIA Triad helps guide security decisions and policies to protect information systems.
+
+## Date Studied
+April 8th, 2026
