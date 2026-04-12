@@ -34,3 +34,4 @@ I am building this portfolio to document my progress and demonstrate my skills a
 - [CIA Triad](cia-triad-notes.md)
 - [Security Frameworks](security-frameworks-notes.md)
 - [Cybersecurity Ethics](cybersecurity-ethics.md)
+- [Security Tools Overview](security-tools-overview.md)
