@@ -36,6 +36,7 @@ I am building this portfolio to document my progress and demonstrate my skills a
 - [Cybersecurity Ethics](cybersecurity-ethics.md)
 - [Security Tools Overview](security-tools-overview.md)
 - [Security Domains and NIST RMF](security-domains-and-nist-rmf.md)
+- [Security Frameworks and Controls](security-frameworks-and-controls.md)
 
  ## Certifications / Progress
 
