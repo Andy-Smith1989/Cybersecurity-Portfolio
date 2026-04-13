@@ -29,6 +29,7 @@ I am building this portfolio to document my progress and demonstrate my skills a
 - [Phishing Email Analysis](projects/phishing-analysis.md)
 - [Password Security Audit](projects/password-security-audit.md)
 - [Home Network Risk Assessment](projects/risk-assessment-home-network.md)
+- [Security Audit – Botium Toys](projects/security-audit-botium-toys.md)
 
 ## Notes
 - [CIA Triad](cia-triad-notes.md)
