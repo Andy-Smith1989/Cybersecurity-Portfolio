@@ -38,6 +38,7 @@ I am building this portfolio to document my progress and demonstrate my skills a
 - [Security Domains and NIST RMF](security-domains-and-nist-rmf.md)
 - [Security Frameworks and Controls](security-frameworks-and-controls.md)
 - [NIST CSF Functions](nist-csf-functions.md)
+- [OWASP Security Principles](owasp-security-principles.md)
 
 
 ## Certifications / Progress
