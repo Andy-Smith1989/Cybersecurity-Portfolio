@@ -42,8 +42,9 @@ I am building this portfolio to document my progress and demonstrate my skills a
 - [OWASP Security Principles](owasp-security-principles.md)
 
 
-## Certifications / Progress
+## Certification Progress
 
-- Google Cybersecurity Professional Certificate  
-  - Course 1 Completed: Foundations of Cybersecurity (April 12, 2026)
-  - Final Exam Score: 100%
+- [x] Course 1: Foundations of Cybersecurity (100%)
+- [x] Course 2: Play It Safe: Manage Security Risks (97.5%)
+- [ ] Course 3
+- [ ] Course 4
