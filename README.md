@@ -40,7 +40,7 @@ I am building this portfolio to document my progress and demonstrate my skills a
 - [Security Frameworks and Controls](security-frameworks-and-controls.md)
 - [NIST CSF Functions](nist-csf-functions.md)
 - [OWASP Security Principles](owasp-security-principles.md)
-
+- [SIEM and Log Analysis](siem-and-log-analysis.md)
 
 ## Certification Progress
 
