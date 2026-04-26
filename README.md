@@ -44,6 +44,7 @@ I am building this portfolio to document my progress and demonstrate my skills a
 - [Incident Response Playbooks and SOAR](incident-response-playbooks-and-soar.md)
 - [Network Architecture and Cloud Security](network-architecture-and-cloud-security.md)
 - [TCP/IP and OSI Models](tcp-ip-and-osi-models.md)
+- [Network Protocols and Security](network-protocols-and-security.md)
 
 ## Certification Progress
 
